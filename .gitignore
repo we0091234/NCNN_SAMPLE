@@ -29,3 +29,5 @@ ncnn_test/
 !*.png
 !*.onnx
 !*.cu
+!*.bin
+!*.param
